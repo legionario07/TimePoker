@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimePoker</string>
+    <string name="level">Lvl</string>
+    <string name="small">Small</string>
+    <string name="big">Big</string>
+    <string name="ante">Ante</string>
+    <string name="min">Min</string>
+    <string name="SMALL">SMALL</string>
+    <string name="BIG">BIG</string>
+    <string name="NOME_ESTRUTURA">NOME ESTRUTURA</string>
+</resources>
